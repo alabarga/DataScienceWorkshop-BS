@@ -21,3 +21,8 @@ ciència de dades i el seu entorn tecnològic més bàsic basat en Python. Els c
 
 A fi de seguir el curs i realitzar els exercicis pràctics proposats pels professors és necessari que els
 alumnes disposin d’un ordinador amb el software Anaconda instal·lat. Cal instal·lar la versió Python 3.7.
+
+L'eina que farem servir per executar codi Python és el Jupyter Notebook. Els passos que heu de fer per accedir a aquesta eina (assumint que teniu Anaconda correctament instal·lat) són:
+
++ Baixeu tot el contingut d'aquest curs al directori de la vostra màquina que vulgueu.
++ Obriu una finestra terminal, navegueu al directori anterior i executeu `jupyter notebook`

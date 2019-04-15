@@ -1,4 +1,4 @@
-# DataScience Workshop a la UB Business School
+# Workshop sobre Ciència de Dades a la UB Business School
 
 ## Adquisició i processament de dades en Python
 

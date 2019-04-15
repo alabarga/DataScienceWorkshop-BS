@@ -20,7 +20,7 @@ ciència de dades i el seu entorn tecnològic més bàsic basat en Python. Els c
 + Web Scraping (31/5)
 
 A fi de seguir el curs i realitzar els exercicis pràctics proposats pels professors és necessari que els
-alumnes disposin d’un ordinador amb el software Anaconda instal·lat. Cal instal·lar la versió Python 3.7.
+alumnes disposin d’un ordinador amb el software Anaconda instal·lat. Cal instal·lar la versió Python 3.x.
 
 L'eina que farem servir per executar codi Python és el Jupyter Notebook. Els passos que heu de fer per accedir a aquesta eina (assumint que teniu Anaconda correctament instal·lat) són:
 
